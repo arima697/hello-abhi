@@ -1,5 +1,4 @@
 # hello-abhi
-My hello abhi repository
 I am Abhimannyu Rimal. I am married to Samita Kafle. I have 3 siblings, my dad and step-mom in our family.  
 I was born in Nepal and later moved to the United States for my bachelors degree in biochemistry.
 Currently, I am pursuing a Ph.D in biochemistry at Thomas Jefferson University studying atypical mechanism of MAPK activaiton.
